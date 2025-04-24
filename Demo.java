@@ -6,8 +6,8 @@ public class Demo {
         System.out.println("Arithmetic Operations:");
         System.out.println("Addition: " + (a + b));
         System.out.println("Subtraction: " + (a - b));
-        System.out.println("Subtraction: " + (a * b));
-        System.out.println("Subtraction: " + (a / b));
+        System.out.println("multiplication: " + (a * b));
+        System.out.println("division: " + (a / b));
 
     }
 }
